@@ -1,0 +1,15 @@
+2023-06-18 01:47:32,005 p-search started
+2023-06-18 01:47:32,009 Search Words
+2023-06-18 01:47:32,009 Input File:target_words.txt
+2023-06-18 01:47:32,009 {'duties', 'obey', 'disdained', 'If', 'everybody', 'bed', 'Lady', 'wear', 'feared', 'necessary', 'individual', 'grief', 'papa', 'trouble.', 'interruption', 'obligations', 'lines', 'spoke', 'dependence', 'Militia', 'smallest', 'direction', 'whole', 'distress', '18', 'approaching'}
+2023-06-18 01:47:32,014 Target of Search:傲慢与偏见英文版.txt
+2023-06-18 01:47:32,015 File Size:690979
+2023-06-18 01:48:08,760 p-search started
+2023-06-18 01:48:08,761 Search Words 
+2023-06-18 01:48:08,761 Input File: target_words.txt
+2023-06-18 01:48:08,761 {'interruption', 'bed', 'feared', 'papa', 'If', 'direction', 'distress', 'smallest', 'lines', 'approaching', 'Lady', 'disdained', '18', 'necessary', 'individual', 'everybody', 'obey', 'Militia', 'dependence', 'obligations', 'wear', 'trouble.', 'grief', 'duties', 'whole', 'spoke'}
+2023-06-18 01:48:08,761 Target of Search: 傲慢与偏见英文版.txt
+2023-06-18 01:48:08,762 File Size: 690979
+2023-06-18 01:48:09,045 Elapsed Time:0.2853255271911621seconds
+2023-06-18 01:48:09,045 
+2023-06-18 01:48:09,045 Program Terminated Normally

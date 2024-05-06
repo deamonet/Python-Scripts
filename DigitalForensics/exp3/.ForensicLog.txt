@@ -1,0 +1,27 @@
+2023-06-18 02:04:07,044 -INFO- Scan Started
+2023-06-18 02:04:07,044 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:07,044 -INFO- Logging Shutdown
+2023-06-18 02:04:21,002 -INFO- Scan Started
+2023-06-18 02:04:21,003 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:21,003 -INFO- Logging Shutdown
+2023-06-18 02:04:21,873 -INFO- Scan Started
+2023-06-18 02:04:21,877 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:21,877 -INFO- Logging Shutdown
+2023-06-18 02:04:22,447 -INFO- Scan Started
+2023-06-18 02:04:22,449 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:22,449 -INFO- Logging Shutdown
+2023-06-18 02:04:22,934 -INFO- Scan Started
+2023-06-18 02:04:22,934 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:22,935 -INFO- Logging Shutdown
+2023-06-18 02:04:23,546 -INFO- Scan Started
+2023-06-18 02:04:23,547 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:23,547 -INFO- Logging Shutdown
+2023-06-18 02:04:24,428 -INFO- Scan Started
+2023-06-18 02:04:24,428 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:04:24,429 -INFO- Logging Shutdown
+2023-06-18 02:06:10,009 -INFO- Scan Started
+2023-06-18 02:06:10,010 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:06:10,010 -INFO- Logging Shutdown
+2023-06-18 02:06:10,919 -INFO- Scan Started
+2023-06-18 02:06:10,920 -WARNING- pictest.jpg not a valid file
+2023-06-18 02:06:10,920 -INFO- Logging Shutdown

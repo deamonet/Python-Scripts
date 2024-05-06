@@ -1,0 +1,3 @@
+2023-06-18 02:03:30,425 -INFO- Scan Started
+2023-06-18 02:03:30,425 -WARNING- .\exp3\pictest.jpg not a valid file
+2023-06-18 02:03:30,425 -INFO- Logging Shutdown
